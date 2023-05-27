@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Tu
-- 🌱 I’m currently learning embedded system
-- 💞️ I’m learning C, C++, HTML, CSS, Javascript, Python
+- 💞️ Ho Chi Minh University of Science
+- 🌱 I’m currently learning computer and embedded system engineering
+- 💞️ I’m learning C, C++, Python and a little about web (HTML, CSS, JS)
 - 📫 How to reach me: tuhoang91003@gmail.com
 
 <!---
