@@ -2,7 +2,7 @@
 - 💞️ Ho Chi Minh University of Science
 - 🌱 I’m currently learning Computer and Embedded System Engineering
 - 💞️ I’m learning C, C++, Python and a little about web (HTML, CSS, JS)
-- 📫 How to reach me: tuhoang91003@gmail.com
+- 📫 How to reach me: hoangtu91003@gmail.com
 
 <!---
 HoangTu910/HoangTu910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
