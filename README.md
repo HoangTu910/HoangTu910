@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tu
 - 💞️ Ho Chi Minh University of Science
 - 🌱 I’m currently learning Computer and Embedded System Engineering
-- 💞️ My main language are C, C++, Python and a little about web (HTML, CSS, JS)
+- 💞️ My main programming language are C, C++, Python and a little about web (HTML, CSS, JS)
 - 📫 How to reach me: hoangtu91003@gmail.com
 
 <!---
