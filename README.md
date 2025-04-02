@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tu
 - 💞️ VNU - University of Science
 - 🌱 I’m currently learning Computer and Embedded System 
-- 💞️ My main programming language are C, C++, Python and a little about web (HTML, CSS, JS). Suck at Verilog but can still do something with it
+- 💞️ My main programming language are C, C++, Python and a little about web (HTML, CSS, JS). Suck at Verilog but still can do something with it
 - 📫 How to reach me: hoangtu91003@gmail.com
 
 <!---
