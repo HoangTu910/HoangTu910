@@ -1,18 +1,22 @@
 Hi, please refer to the documentation below for details on the latest version of the HooToo SoC :) 
-```
-          +--------------------------+
-          |       HOOTOO CORE        |
-          |    Control Unit + ALU    |
-          +------------+-------------+
-                       |
-                =======+=======   System Bus
-                       |
-   +-----------+--------+---------+--------+-----------+
-   |           |                  |        |           |
-+-----------+ +--------------+ +-----------+ +-------------+ +----------------+
-| MCU Ctrl  | | SW Runtime   | | Web I/O   | | DSP Engine  | | AI Engine      |
-| (I/O Hub) | | (Execution)  | | Interface | | Accelerator | | (Experimental) |
-+-----------+ +--------------+ +-----------+ +-------------+ +----------------+
+```mermaid
+flowchart TD
+    CORE["HOOTOO CORE<br/>Control Unit + ALU"]
+
+    BUS["System Bus"]
+
+    MCU["MCU Controller<br/>(I/O Hub)"]
+    SW["Software Runtime<br/>(Execution)"]
+    WEB["Web I/O Interface"]
+    DSP["DSP Engine<br/>(Accelerator)"]
+    AI["AI Engine<br/>(Experimental)"]
+
+    CORE --> BUS
+    BUS --> MCU
+    BUS --> SW
+    BUS --> WEB
+    BUS --> DSP
+    BUS --> AI
 ```
 
 ## Core Specifications
