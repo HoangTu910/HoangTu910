@@ -36,7 +36,7 @@ Hi, please refer to the documentation below for details on the latest version of
 - C / C++ (primary execution layer)
 - Python (scripting and automation)
 - Data Structures & Algorithms  
-  *(Can play Codeforces but still improving problem-solving performance)*
+  *(Can play Codeforces but still improving problem-solving performance, benchmark data are stored here: https://codeforces.com/profile/HuTa)*
 
 ---
 
