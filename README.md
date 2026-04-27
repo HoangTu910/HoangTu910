@@ -1,3 +1,4 @@
+```
           +--------------------------+
           |       HOOTOO CORE        |
           |    Control Unit + ALU    |
@@ -11,6 +12,7 @@
 | MCU Ctrl  | | SW Runtime   | | Web I/O   | | DSP Engine  | | AI Engine      |
 | (I/O Hub) | | (Execution)  | | Interface | | Accelerator | | (Experimental) |
 +-----------+ +--------------+ +-----------+ +-------------+ +----------------+
+```
 
 ## Core Specifications
 - **Name:** Tu (Hoang Tu) / HooToo
