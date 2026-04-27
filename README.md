@@ -1,10 +1,74 @@
-- 👋 Hi, I’m Tu
-- 💞️ VNU - University of Science
-- 🌱 Computer engineering, hardware, embedded, signal and related
-- 💞️ My main programming language are C, C++, Python and a little about web (HTML, CSS, JS). Suck at Verilog but still can do something with it
-- 📫 How to reach me: hoangtu91003@gmail.com
+          +--------------------------+
+          |       HOOTOO CORE        |
+          |    Control Unit + ALU    |
+          +------------+-------------+
+                       |
+                =======+=======   System Bus
+                       |
+   +-----------+--------+---------+--------+-----------+
+   |           |                  |        |           |
++-----------+ +--------------+ +-----------+ +-------------+ +----------------+
+| MCU Ctrl  | | SW Runtime   | | Web I/O   | | DSP Engine  | | AI Engine      |
+| (I/O Hub) | | (Execution)  | | Interface | | Accelerator | | (Experimental) |
++-----------+ +--------------+ +-----------+ +-------------+ +----------------+
 
-<!---
-HoangTu910/HoangTu910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Core Specifications
+- **Name:** Tu (Hoang Tu) / HooToo
+- **Architecture:** Embedded Systems / Computer Engineering
+- **Factory:** VNU - University of Science
+- **Status:** Active | Learning | Debugging life
+
+---
+
+## MCU Controller (I/O Hub)
+- Embedded Systems  
+- Microcontrollers (MCU)  
+- Hardware Design
+- SoC
+- Verilog *(basic proficiency)*  
+
+---
+
+## Software Runtime (Execution Engine)
+- C / C++ (primary execution layer)
+- Python (scripting and automation)
+- Data Structures & Algorithms  
+  *(Can play Codeforces but still improving problem-solving performance)*
+
+---
+
+## Web I/O Interface
+- HTML / CSS / JavaScript  
+- Basic frontend development  
+- Backend exploration *(in progress)*
+
+---
+
+## DSP Engine (Accelerator)
+- Digital Signal Processing  
+- Algorithm implementation and optimization  
+
+---
+
+## AI Engine (Experimental)
+- Introductory exploration of Embedded AI  
+- Planned future specialization  
+
+---
+
+## Debug & Communication Interface
+- Email: **hoangtu91003@gmail.com**
+- Known Issues: under investigation  
+- Version: v2.0 (iterative updates)
+
+---
+
+## System Loop
+```c
+while (system_active) {
+    learn();
+    build();
+    test();
+    debug();
+    optimize();
+}
