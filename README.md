@@ -1,3 +1,4 @@
+Hi, please refer to the documentation below for details on the latest version of the HooToo SoC :) 
 ```
           +--------------------------+
           |       HOOTOO CORE        |
